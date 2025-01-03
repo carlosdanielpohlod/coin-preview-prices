@@ -26,3 +26,5 @@ To run the dummy server, execute:
 node dev/api/server.js
 ```
 
+![Captura de tela de 2025-01-03 16-15-42](https://github.com/user-attachments/assets/76891642-f5cb-4a07-93b2-c736fad91869)
+
